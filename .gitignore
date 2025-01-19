@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Parcel cache
+.parcel-cache/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+
+# MacOS system files
+.DS_Store
